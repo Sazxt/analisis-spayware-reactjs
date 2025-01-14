@@ -46,7 +46,7 @@ Tujuan dari analisis ini adalah untuk memahami fungsionalitas malware, mengident
 Informasi yang diberikan dalam repositori ini hanya untuk tujuan pendidikan dan penelitian.  Penulis tidak bertanggung jawab atas penyalahgunaan informasi ini.
 
 
-## extension browser
+## Extension browser
 ```
 data = [
     {"Extension ID": "nkbihfbeogaeaoehlefnkodbefgpgknn", "Extension Name": "MetaMask"},
@@ -74,7 +74,7 @@ data = [
 ```
 
 
-## flow
+## Flow
 ```
 +--------------------------------------+
 | Start Program                        |
